@@ -7,6 +7,7 @@
         "xlsxTransform": "node utils/xlsxTransform.js data"
     },
     "dependencies": {
+        "http-server": "^13.0.1",
         "xlsx": "^0.17.0"
     }
 }
